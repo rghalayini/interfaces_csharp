@@ -1,0 +1,7 @@
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Interfaces\Lab_Interfaces\obj\Debug\PersonInfo.csprojAssemblyReference.cache
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Interfaces\Lab_Interfaces\obj\Debug\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Interfaces\Lab_Interfaces\bin\Debug\Lab_Interfaces.exe.config
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Interfaces\Lab_Interfaces\bin\Debug\Lab_Interfaces.exe
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Interfaces\Lab_Interfaces\bin\Debug\Lab_Interfaces.pdb
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Interfaces\Lab_Interfaces\obj\Debug\Lab_Interfaces.exe
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Interfaces\Lab_Interfaces\obj\Debug\Lab_Interfaces.pdb
